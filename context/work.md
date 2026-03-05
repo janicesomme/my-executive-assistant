@@ -24,8 +24,11 @@
 **Tools I Use:**
 - Claude, Claude Code, ChatGPT
 - Vercel, Lovable, Github, Supabase
-- n8n (automation), Telegram
+- JavaScript (for building workflows — moved away from n8n), Telegram
 - VSCode, Excalidraw
+
+**Automation Preference:**
+- Moved away from n8n. Now building workflows with JavaScript for more control and customization.
 
 **Key Relationships:**
 - James: Mortgage lender friend, co-creator of mortgage lender system, will help sell to other lenders

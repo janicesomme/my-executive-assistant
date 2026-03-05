@@ -21,7 +21,9 @@ Read these before any major session. They update as your focus shifts.
 
 ## Tools & Integration
 
-**You use:** Claude, Claude Code, ChatGPT, Vercel, Lovable, Github, Supabase, n8n (with MCP), Telegram, VSCode, Excalidraw
+**You use:** Claude, Claude Code, ChatGPT, Vercel, Lovable, Github, Supabase, JavaScript (for workflows), Telegram, VSCode, Excalidraw
+
+**Note:** You've moved from n8n to JavaScript for building workflows. More control, more customization, better fits your builder mindset.
 
 **Communication:** Text-based workflows. Manual outreach is your pain point.
 

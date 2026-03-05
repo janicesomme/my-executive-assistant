@@ -54,7 +54,7 @@ I'll create:
 
 Option A: Copy-paste into LinkedIn DMs (manual, fastest for small batches)
 Option B: Batch export to email template (do 10-20 at once)
-Option C: Use n8n automation (future build) — fully automated
+Option C: Build JavaScript workflow (future build) — fully automated LinkedIn/email integration
 
 ### Step 4: Track
 
@@ -140,11 +140,13 @@ Keep it updated. It's your CRM until you need a real one.
 
 ---
 
-## The N8n Automation (Future)
+## The JavaScript Automation (Future)
 
-Eventually: LinkedIn bot that finds leads + Claude API generates messages + auto-sends.
+Eventually: Build JavaScript workflow that finds leads (LinkedIn scraping) + Claude API personalizes messages + auto-sends via email/LinkedIn.
 
 For now: Manual batches. 10 minutes per week. That's it.
+
+(You prefer JavaScript over n8n for more control and customization.)
 
 ---
 
